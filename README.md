@@ -3,4 +3,3 @@
 --------------------
 install arch quickly
 --------------------
-by mxxlware
